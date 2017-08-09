@@ -1,3 +1,6 @@
 # Open Directory of Legal Hacks
 
-Also see: http://legalhackdirectory.net/
+Tentative URL: http://legalhackdirectory.net
+
+Stable GitHub Pages URL: https://mitmedialab.github.io/legalfrontier
+
