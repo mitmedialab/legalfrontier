@@ -1,4 +1,4 @@
-# Open Directory of Legal Hacks
+# Legal Hacks Open Directory
 
 Tentative URL: [http://legalhackdirectory.net](http://legalhackdirectory.net)
 
