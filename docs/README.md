@@ -4,7 +4,7 @@ Tentative URL: [http://legalhackdirectory.net](http://legalhackdirectory.net)
 
 Stable GitHub Pages URL: [https://mitmedialab.github.io/legalfrontier](https://mitmedialab.github.io/legalfrontier)
 
-## Prototype Directory Contents
+## Show Legal Hacks
 
 * See: [https://docs.google.com/spreadsheets/d/1_tMjcqfraem1c9amt9-vh1Hk6TVJgu7XBFlvdFQj9xs/pubhtml?gid=204946707&single=true](https://docs.google.com/spreadsheets/d/1_tMjcqfraem1c9amt9-vh1Hk6TVJgu7XBFlvdFQj9xs/pubhtml?gid=204946707&single=true)
 
@@ -12,7 +12,7 @@ Stable GitHub Pages URL: [https://mitmedialab.github.io/legalfrontier](https://m
 
 <iframe src="https://docs.google.com/spreadsheets/d/1_tMjcqfraem1c9amt9-vh1Hk6TVJgu7XBFlvdFQj9xs/pubhtml?widget=true&amp;headers=false"></iframe>
 
-## Prototype Legal Hack Intake Form
+## Share Legal Hacks
 
 * See: [https://goo.gl/forms/UhYHEBASzYnKlmbT2](https://goo.gl/forms/UhYHEBASzYnKlmbT2)
 
