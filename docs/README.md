@@ -1,3 +1,8 @@
+# MIT Human Dynamics Lab Poster
+
+<img src="https://github.com/mitmedialab/legalfrontier/raw/master/docs/poster-01.png">
+
+
 # Legal Hacks Open Directory
 
 Tentative URL: [http://legalhackdirectory.net](http://legalhackdirectory.net)
